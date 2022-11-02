@@ -1,0 +1,110 @@
+body {
+  font-family: overpass;
+  background-color: #EEF1FF;
+  color: #AAC4FF;
+  text-align: center;
+  padding: 20px;
+}
+
+
+a link{
+  text-decoration: none;
+  color: #AAC4FF;
+  font-size: 15px;
+}
+
+h1{
+  font-family: Chivo;
+  color: #D2001A;
+}
+
+h2 {
+  font-family: Overpass;
+  color: #790252;
+}
+
+
+h3 {
+  font-family: overpass;
+  color: #D2001A;
+  font-size: 15px;
+  margin-top: 40px ;
+}
+
+.ligne{
+  display: inline;
+  padding: 0px;
+  margin-right:20px;
+}
+ .intro{
+   background-color: white;
+   padding: 20px;
+   width: 290px;
+   margin: 25px auto;
+   border-radius:2px;
+   border:1px solid #EAEAEA;
+}
+.frenchgirl {
+   background-color: white;
+   padding: 15px;
+   width:300px;
+   margin: 25px auto;
+   border-radius:2px;
+   border:1px solid #EAEAEA;
+}
+.learningcode {
+   background-color: white;
+   padding: 15px;
+   width:300px;
+   margin: 25px auto;
+   border-radius:2px;
+   border:1px solid #EAEAEA;
+}
+.lovetravel {
+   background-color: white;
+   padding: 15px;
+   width:300px;
+   margin: 25px auto;
+   border-radius:2px;
+   border:1px solid #EAEAEA;
+}
+.followme {
+   background-color: white;
+   padding: 15px;
+   width:300px;
+   margin: 25px auto;
+   border-radius:2px;
+   border:1px solid #EAEAEA;
+}
+
+
+div {
+  background-color: white;
+  padding: 50px;
+  width: 500px;
+  margin: 25px auto;
+  border-radius: 5px;
+  border: 1px solid #EAEAEA;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+}
+#profile-pic {
+   width:200px;
+   height:200px;
+  border-radius:50%;
+}
+
+@media (max-width: 960px) {
+.container {
+  width: 700px;
+  }
+}
+@media (max-width: 720px) {
+.container {
+  width: 500px;
+  }
+}
+@media (max-width: 540px) {
+.container {
+  width: 300px;
+  }
+}
